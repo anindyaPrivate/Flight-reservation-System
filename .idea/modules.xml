@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Flight reservation system.iml" filepath="$PROJECT_DIR$/Flight reservation system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkouts/checkouts.iml" filepath="$PROJECT_DIR$/checkouts/checkouts.iml" />
+    </modules>
+  </component>
+</project>
